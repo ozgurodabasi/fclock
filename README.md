@@ -2,8 +2,7 @@
 
 A full-screen terminal clock and countdown timer that scales to fill any terminal size — like a screensaver for your command line.
 
-![fclock matrix mode](screens/screen-matrix.png)
-![fclock rainbow mode](screens/screen-rainbow.png)
+![fclock](screens/screen1.png)
 
 ---
 
