@@ -2,7 +2,7 @@ class Fclock < Formula
   desc "Full-screen terminal clock and countdown timer with Matrix rain"
   homepage "https://github.com/ozgurodabasi/homebrew-fclock"
   url "https://github.com/ozgurodabasi/homebrew-fclock/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "97bb0f7b22e508af97c9b28f0abdc4c53f83e835b24e7588dc38ef8ef6cf22df"
+  sha256 "09d337bb9f37efc3c52d0c66f82d19e0d9abb00e9b76eac0b576fe7ba35ef740"
   license "MIT"
   head "https://github.com/ozgurodabasi/homebrew-fclock.git", branch: "main"
 
